@@ -265,7 +265,7 @@ value_proposition = {
 ## 🏆 Professional Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=amrgaberM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" height="150" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app?username=amrgaberM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&ryo=commits,repositories,experience" height="150" alt="trophy" />
 </div>
 
 <table>
