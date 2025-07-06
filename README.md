@@ -18,7 +18,7 @@
   
 ### 🎯 **Junior ML Engineer** | 📚 **Lifelong Learner** | 🌟 **AI Enthusiast**
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="coding gif">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="data science animation">
 
 </div>
 
@@ -58,10 +58,6 @@ my_goals = {
   <img src="https://streak-stats.demolab.com?user=amrgaberM&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideLabels=8B949E" height="180" alt="streak stats" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="data science gif">
-</div>
-
 </td>
 </tr>
 </table>
@@ -73,8 +69,6 @@ my_goals = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="tech stack gif">
 
 ### 🐍 **Programming Languages**
 
@@ -167,8 +161,6 @@ my_goals = {
 
 <div align="center">
   
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="analytics gif">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrgaberM&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="200" alt="top languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrgaberM&bg_color=0D1117&color=58A6FF&line=1ABC9C&point=FF6B6B&area=true&hide_border=true&custom_title=📈%20My%20Coding%20Journey" alt="activity graph" />
@@ -189,8 +181,6 @@ my_goals = {
 
 <div align="center">
   
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="achievement gif">
-
 <img src="https://github-profile-trophy.vercel.app?username=amrgaberM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&ryo=commits,repositories,experience" height="150" alt="trophy" />
 
 <table>
@@ -219,8 +209,6 @@ my_goals = {
 ## 🤝 Let's Connect!
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="300" alt="connect gif">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Open+to+Entry+Level+Opportunities!;Let's+Build+Cool+Projects+Together!;Always+Excited+to+Learn+New+Things!" alt="collaboration" />
 
@@ -286,8 +274,6 @@ my_goals = {
 
 <div align="center">
   
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="thanks gif">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Ready+to+start+my+AI+journey!;Let's+create+something+amazing!" alt="thank you" />
 
 <img src="https://komarev.com/ghpvc/?username=amrgaberM&style=for-the-badge&color=brightgreen&label=Profile%20Views&labelColor=0D1117" alt="profile views" />
