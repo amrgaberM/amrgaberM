@@ -1,7 +1,5 @@
-# Amr Hassan
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Junior+ML+Engineer+%7C+AI+%26+Data+Science+Enthusiast;Building+Real-World+Solutions+with+Code+and+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=600&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Amr+Hassan+%7C+Junior+ML+Engineer;Creating+Impactful+AI+Solutions+with+Code+and+Data" alt="Typing SVG" />
   <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </div>
@@ -10,84 +8,61 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Machine Learning Engineer** passionate about creating impactful AI solutions. I specialize in building and deploying machine learning models, with a focus on practical applications in data science and computer vision. I’m an active contributor to open-source projects and love collaborating on innovative ideas.
+I'm a **Junior Machine Learning Engineer** passionate about building innovative AI solutions that drive real-world impact. With expertise in machine learning, computer vision, and scalable data pipelines, I excel at transforming complex challenges into actionable results. I’m a proactive collaborator, eager to contribute to cutting-edge AI projects.
 
-- 🌟 **Current Focus**: Developing scalable ML pipelines and exploring generative AI.
-- 🚀 **Fun Fact**: I once built a real-time face detection app using OpenCV in a weekend!
-- 📍 **Based in**: [Your Location]
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=flat)
-
-### ML & Data
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
-
-### Dev & Ops
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+- 🌟 **Current Focus**: Developing efficient ML pipelines and advancing generative AI applications.
+- 🚀 **Key Achievement**: Engineered a real-time face detection system with OpenCV in just 48 hours.
+- 📍 **Location**: [Your Location]
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Technical Expertise
 
-- **[Real-Time Face Detection](https://github.com/amrgaberM/face-detection)**  
-  A computer vision project using OpenCV to detect faces in real-time video streams.  
-  *Tech*: Python, OpenCV, NumPy  
-  *Impact*: Deployed as a prototype for security applications.
-
-- **[Sentiment Analysis API](https://github.com/amrgaberM/sentiment-analysis)**  
-  A FastAPI-based API for real-time sentiment analysis of text data using NLP models.  
-  *Tech*: Python, FastAPI, TensorFlow, Scikit-learn  
-  *Impact*: Integrated into a customer feedback dashboard.
-
-- **[Data Visualization Dashboard](https://github.com/amrgaberM/data-viz)**  
-  A React-based dashboard for interactive data exploration with real-time charts.  
-  *Tech*: JavaScript, React, Pandas, Docker  
-  *Impact*: Used for analyzing business KPIs.
-
----
-
-## 📊 GitHub Stats
-
+### Programming Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrgaberM&theme=tokyonight&show_icons=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=amrgaberM&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrgaberM&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/-HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML/CSS" />
+</div>
+
+### Machine Learning & Data Science
+<div align="center">
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square" alt="NumPy" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square" alt="OpenCV" />
+</div>
+
+### DevOps & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux" />
 </div>
 
 ---
 
-## 🎮 Contribution Graph
+## 📊 GitHub Insights
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amrgaberM/amrgaberM/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amrgaberM/amrgaberM/output/pacman-contribution-graph.svg">
-    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/amrgaberM/amrgaberM/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=amrgaberM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=amrgaberM&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrgaberM&layout=compact&theme=midnight-purple&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 🎓 Current Learning Path
 
-- **Deep Learning**: Exploring advanced neural network architectures with PyTorch.
-- **MLOps**: Mastering CI/CD pipelines for ML model deployment.
-- **Cloud**: Experimenting with AWS for scalable AI solutions.
+- **Deep Learning**: Mastering advanced neural network architectures with PyTorch.
+- **MLOps**: Streamlining CI/CD pipelines for seamless ML model deployment.
+- **Cloud Computing**: Leveraging AWS for scalable and efficient AI solutions.
 
 ---
 
@@ -104,20 +79,20 @@ I'm a **Junior Machine Learning Engineer** passionate about creating impactful A
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
   <a href="https://x.com/realgaber" target="_blank">
-    <img src="https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" />
   </a>
 </div>
 
 ---
 
-## 🤝 Open to Collaborations
+## 🤝 Open to Opportunities
 
-I’m excited to collaborate on projects in **Machine Learning**, **AI**, or **Data Engineering**. If you have an idea or need a partner, let’s connect!
+I’m eager to collaborate on **Machine Learning**, **AI**, or **Data Engineering** projects. Let’s connect to build transformative solutions together!
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let’s+build+something+amazing+with+AI!" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+exploring+my+profile!;Let’s+shape+the+future+of+AI+together!" alt="Footer" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=amrgaberM&style=for-the-badge&color=green&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amrgaberM&style=for-the-badge&color=1E90FF&label=Profile+Views" alt="Profile Views" />
 </div>
