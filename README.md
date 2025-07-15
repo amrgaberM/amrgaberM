@@ -1,22 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=600&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Amr+Hassan+%7C+Junior+ML+Engineer;Creating+Impactful+AI+Solutions+with+Code+and+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=500&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Amr+Hassan+%7C+ML+Engineer;Building+AI+Solutions+with+Impact" alt="Typing SVG" />
   <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </div>
 
----
+## About Me
 
-## 👨‍💻 About Me
+I am a Junior Machine Learning Engineer dedicated to building innovative AI solutions that address real-world challenges. My expertise spans machine learning model development, computer vision, and scalable data pipelines, with a focus on delivering measurable results through clean, efficient code. I thrive in collaborative environments and am passionate about advancing AI technology.
 
-I'm a **Junior Machine Learning Engineer** passionate about building innovative AI solutions that drive real-world impact. With expertise in machine learning, computer vision, and scalable data pipelines, I excel at transforming complex challenges into actionable results. I’m a proactive collaborator, eager to contribute to cutting-edge AI projects.
+- Current Focus: Designing robust ML pipelines and exploring generative AI advancements.
+- Key Achievement: Developed a real-time face detection system using OpenCV in 48 hours.
+- Location: [Your Location]
 
-- 🌟 **Current Focus**: Developing efficient ML pipelines and advancing generative AI applications.
-- 🚀 **Key Achievement**: Engineered a real-time face detection system with OpenCV in just 48 hours.
-- 📍 **Location**: [Your Location]
-
----
-
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 ### Programming Languages
 <div align="center">
@@ -46,27 +42,31 @@ I'm a **Junior Machine Learning Engineer** passionate about building innovative 
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux" />
 </div>
 
----
-
-## 📊 GitHub Insights
+## GitHub Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amrgaberM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=amrgaberM&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=amrgaberM&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrgaberM&layout=compact&theme=midnight-purple&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
----
+## Contribution Graph
 
-## 🎓 Current Learning Path
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amrgaberM/amrgaberM/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amrgaberM/amrgaberM/output/pacman-contribution-graph.svg">
+    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/amrgaberM/amrgaberM/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
-- **Deep Learning**: Mastering advanced neural network architectures with PyTorch.
-- **MLOps**: Streamlining CI/CD pipelines for seamless ML model deployment.
-- **Cloud Computing**: Leveraging AWS for scalable and efficient AI solutions.
+## Current Learning Path
 
----
+- Deep Learning: Mastering advanced neural network architectures with PyTorch.
+- MLOps: Streamlining CI/CD pipelines for seamless ML model deployment.
+- Cloud Computing: Leveraging AWS for scalable and efficient AI solutions.
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amrhassangaber/" target="_blank">
@@ -79,20 +79,10 @@ I'm a **Junior Machine Learning Engineer** passionate about building innovative 
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
   <a href="https://x.com/realgaber" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" />
+    <img src="https://img.shields.io/badge/-X-181717?logo=x&logoColor=white&style=for-the-badge" alt="X" />
   </a>
 </div>
 
----
+## Open to Opportunities
 
-## 🤝 Open to Opportunities
-
-I’m eager to collaborate on **Machine Learning**, **AI**, or **Data Engineering** projects. Let’s connect to build transformative solutions together!
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+exploring+my+profile!;Let’s+shape+the+future+of+AI+together!" alt="Footer" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=amrgaberM&style=for-the-badge&color=1E90FF&label=Profile+Views" alt="Profile Views" />
-</div>
+I am eager to contribute to Machine Learning, AI, or Data Engineering projects. Let's connect to build transformative solutions together!
