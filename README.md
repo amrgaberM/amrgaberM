@@ -9,7 +9,6 @@
 I am a Junior Machine Learning Engineer dedicated to building innovative AI solutions that address real-world challenges. My expertise spans machine learning model development, computer vision, and scalable data pipelines, with a focus on delivering measurable results through clean, efficient code. I thrive in collaborative environments and am passionate about advancing AI technology.
 
 - Current Focus: Designing robust ML pipelines and exploring generative AI advancements.
-- Key Achievement: Developed a real-time face detection system using OpenCV in 48 hours.
 - Location: Cairo
 
 ## Technical Expertise
