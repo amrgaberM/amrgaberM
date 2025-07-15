@@ -10,7 +10,7 @@ I am a Junior Machine Learning Engineer dedicated to building innovative AI solu
 
 - Current Focus: Designing robust ML pipelines and exploring generative AI advancements.
 - Key Achievement: Developed a real-time face detection system using OpenCV in 48 hours.
-- Location: [Your Location]
+- Location: Cairo
 
 ## Technical Expertise
 
