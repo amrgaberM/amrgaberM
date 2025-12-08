@@ -18,13 +18,6 @@ Based in Cairo, Egypt • [LinkedIn](https://www.linkedin.com/in/amrhassangaber/
 - Developing skills in ML pipeline design and deployment
 - Exploring cloud platforms for scalable AI solutions
 
-## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrgaberM&theme=dark&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrgaberM&layout=compact&theme=dark&hide_border=true" height="165" />
-</div>
-
----
 
 *Seeking entry-level opportunities in Machine Learning and Data Science to apply and expand my skills.*
