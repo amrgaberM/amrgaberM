@@ -32,7 +32,7 @@ Currently sharing what I learn through technical deep-dives on Medium and always
 <td width="50%">
 
 ### GPT from Scratch
-[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/amrgaberM/gpt-from-scratch)
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/amrgaberM/GPT-Implementation)
 [![Medium Article](https://img.shields.io/badge/Read_Article-12100E?style=for-the-badge&logo=medium)](https://medium.com/@amrgabeerr20)
 
 Built a 164M parameter GPT model implementing the complete Transformer decoder architecture in PyTorch. Includes Multi-Head Self-Attention, Causal Masking, and Sinusoidal Positional Encoding.
@@ -50,7 +50,7 @@ Built a 164M parameter GPT model implementing the complete Transformer decoder a
 <td width="50%">
 
 ### TransformerQA
-[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/amrgaberM/transformer-qa)
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/amrgaberM/TransformerQA)
 
 Production RAG system for document Q&A with automatic source attribution. Achieved 15% retrieval precision improvement and handles 10,000+ embeddings with sub-second latency.
 
@@ -70,7 +70,7 @@ Production RAG system for document Q&A with automatic source attribution. Achiev
 
 ### Athlete Injury Prevention
 [![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/amrgaberM/injury-prediction)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)]([https://your-demo-link.com](https://huggingface.co/spaces/AmrGaberr/Injury_Prediction_System))
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://huggingface.co/spaces/AmrGaberr/Injury_Prediction_System)
 
 ML ensemble model achieving 92.9% accuracy on 10,000+ athlete records. Deployed as Flask API with interactive dashboard for real-time risk assessment.
 
