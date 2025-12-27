@@ -69,7 +69,7 @@ Production RAG system for document Q&A with automatic source attribution. Achiev
 <td width="50%">
 
 ### Athlete Injury Prevention
-[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/amrgaberM/injury-prediction)
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/amrgaberM/injury-prediction-prevention-ml)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel)](https://huggingface.co/spaces/AmrGaberr/Injury_Prediction_System)
 
 ML ensemble model achieving 92.9% accuracy on 10,000+ athlete records. Deployed as Flask API with interactive dashboard for real-time risk assessment.
